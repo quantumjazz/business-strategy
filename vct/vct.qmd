@@ -1,7 +1,11 @@
 ---
 title: "Теория за улавяне на стойността"
 author: "Виктор Аврамов"
-format: revealjs
+format:
+  revealjs:
+    incremental: true  
+    scrollable: true
+    
 ---
 
 ## Въпроси
