@@ -11,3 +11,5 @@ https://quantumjazz.github.io/business-strategy/learning-main/learning#/title-sl
 https://quantumjazz.github.io/business-strategy/entry-exit-main/entry#/title-slide
 
 https://quantumjazz.github.io/business-strategy/differentiation-and-pricing/slides#/title-slide
+
+https://quantumjazz.github.io/business-strategy/5-forces/slides#/title-slide
